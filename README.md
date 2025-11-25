@@ -2,6 +2,7 @@
 Typhoons can cause massive destruction and damage if evacuation measures are not in please. Therefore, if a model is able to predict the intensity to which storms grow, 
 it would be of great benefit.
 In the image below, a sequence of images(512x512 p) which makes up a typhoon storm is shown as a gif file. 
+
 ![Example of typhoon data sequence. Contains a series of 512x512 images](Imaging/infrared_animation_2025-05-10_23-12-02.gif)
 
 
